@@ -29,3 +29,8 @@ This project focuses on performing data analysis on a Superstore dataset using E
 
 ### Dashboard
 The final interactive dashboard provides a user-friendly interface to explore key metrics and trends, allowing for efficient data-driven decision-making.
+### Dashboard Preview
+
+![Superstore Dashboard](/Dashboard.png)
+
+
