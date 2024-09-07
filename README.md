@@ -68,4 +68,4 @@ Slicers were added to allow the user to filter data based on:
 ### Dashboard
 The final dashboard provides a user-friendly interface, making it easier to explore and visualize sales, orders, and other key performance metrics interactively.
 
-![Superstore Dashboard](/Dashboard.png)
+![Online Retail Dashboard](/Dashboard 2.png)
